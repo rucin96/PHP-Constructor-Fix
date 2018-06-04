@@ -4,14 +4,14 @@ Useful to migrate project from PHP 5.4 or less to PHP 5.6 or latest.
 If something go wrong you have backup in `.bak` files.
 
 # Usage
-##Run global
+## Run global
 ```
 sudo php-cf.sh path_do_dir
 Example
 sudo php-cf.sh /var/www/html
 ```
 
-##Run local
+## Run local
 ```
 sudo ./php-cf.sh path_do_dir
 Example
